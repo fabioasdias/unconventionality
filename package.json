@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://unconventionality.github.io/",
   "dependencies": {
-    "gh-pages": "^1.2.0",
+    "gh-pages": "^6.0.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.2",
     "react-scripts": "^5.0.1",
